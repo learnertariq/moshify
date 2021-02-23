@@ -65,6 +65,25 @@ p {
   }
 }
 
+/* Container */
+.container {
+  max-width: 1140px;
+}
+
+/* Block */
+.block {
+}
+
+.block--dark {
+  background-color: #000;
+}
+
+.block__header {
+}
+
+.block__heading {
+}
+
 /* Lists */
 .list {
   list-style: none;
